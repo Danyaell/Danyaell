@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about JS, React and NodeJS.
 - ⚡ Fun fact: ...
 
+#### My technologies 💻
+![react](https://user-images.githubusercontent.com/72165495/154313709-f62052ea-ce57-4c58-a3f3-dd0a6dd7f0a4.png)
+![nodejs](https://user-images.githubusercontent.com/72165495/154314307-e5309600-ead9-426e-800a-1c3297b6ec0f.png)
+![azure](https://user-images.githubusercontent.com/72165495/154314310-3b910018-90ce-490d-bb3e-09593781d8f7.png)
