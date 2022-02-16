@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science.
 - 🔭 I’m currently working on Tech Mahindra.
 - 💬 Ask me about JS, React and NodeJS.
-- ⚡ Fun fact: ...
+- ⚡ My interests: I like watch anime, play videogames, make and listen music and sing. 📺🎮🎵
 
 #### My technologies 💻
 ![react](https://user-images.githubusercontent.com/72165495/154313709-f62052ea-ce57-4c58-a3f3-dd0a6dd7f0a4.png)
