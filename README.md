@@ -1,26 +1,52 @@
-### Hi, I'm Danyaell 👋
+# Hello there, I'm Danyaell 👋
 
-Full Stack Developer with experience building scalable web applications in fintech and retail platforms.
+**Senior Full Stack Software Engineer** with 5+ years of experience building web applications and APIs for international fintech and retail-media platforms.
 
-- 💻 Tech: Java (Spring Boot), Node.js, React, Angular
-- ⚙️ Experience working with microservices, production systems and Agile teams
-- 🚀 Focused on building reliable systems and improving user experience
-- 📍 Based in Mexico
+I work across the stack with **Java, Spring Boot, Angular, React, TypeScript, and Node.js**, with a strong focus on reliable systems, automated testing, production stability, and maintainable code.
 
----
+📍 Based in Mexico · Open to remote Full Stack and Software Engineering opportunities
 
-### 🧠 About me
-I’ve worked on enterprise-level platforms such as the Kroger Ad Platform and financial systems at Scotiabank, contributing to feature development, system stability improvements, and production issue resolution.
+## Professional experience
 
-I’m a fast learner who adapts quickly to new technologies and enjoys solving real-world problems through software.
+- 🛒 Delivered advertising features and UX improvements for the **Kroger Ad Platform at 84.51°**, working with Angular, TypeScript, RxJS, and Signals.
+- 🏦 Developed and supported financial systems at **Scotiabank**, contributing to API integrations, microservices, testing, and production support.
+- 📉 Helped reduce production incidents by **25%** through stability improvements, integration testing, and stronger engineering practices.
+- 🤝 Collaborated with product, UX, backend, and data teams in Agile environments and recurring production releases.
 
----
+## Featured project
 
-### 🛠️ Technologies
-![react](https://user-images.githubusercontent.com/72165495/154313709-f62052ea-ce57-4c58-a3f3-dd0a6dd7f0a4.png)
-![nodejs](https://user-images.githubusercontent.com/72165495/154314307-e5309600-ead9-426e-800a-1c3297b6ec0f.png)
-![js](https://user-images.githubusercontent.com/72165495/154315902-824c87ce-3854-4753-8acb-851c9e00f78f.png)
+### Maverick Labs
 
-![spring](https://user-images.githubusercontent.com/72165495/154315344-e90f83c5-9756-421c-aee2-06b19dc7ccdd.png)
-![angular](https://user-images.githubusercontent.com/72165495/154315489-ad26c207-9e9c-4173-9469-ca2600447397.png)
-![azure](https://user-images.githubusercontent.com/72165495/154314310-3b910018-90ce-490d-bb3e-09593781d8f7.png)
+A full-stack route-planning and analysis application for the **Mega Man X** series.
+
+- Interactive route builder for organizing stages and bosses.
+- Backend analysis of difficulty, completion time, backtracking, and route recommendations.
+- Catalog covering **Mega Man X through Mega Man X8**, with the original game fully modeled.
+- REST API built with **Java 21, Spring Boot, MySQL, Flyway, JPA, and Hibernate**.
+- Frontend built with **React, TypeScript, and Vite**.
+- Automated testing with **JUnit, Testcontainers, Vitest, and Testing Library**.
+- Continuous integration and cloud deployments through **GitHub Actions, Railway, and Vercel**.
+
+## Technology stack
+
+**Backend**
+
+`Java` · `Spring Boot` · `Node.js` · `Express` · `REST APIs` · `Microservices`
+
+**Frontend**
+
+`React` · `Angular` · `TypeScript` · `JavaScript` · `RxJS` · `Vite`
+
+**Data**
+
+`MySQL` · `MongoDB` · `Flyway` · `JPA/Hibernate` · `Prisma`
+
+**Testing and delivery**
+
+`JUnit` · `Testcontainers` · `Jest` · `Vitest` · `Cypress` · `GitHub Actions` · `Azure`
+
+## Currently
+
+- 🚀 Building and improving **Maverick Labs** as a production-style full-stack portfolio project.
+- 🧠 Strengthening my knowledge of data structures, algorithms, and system design.
+- 🤖 Using AI-assisted engineering workflows for implementation, code review, testing, refactoring, documentation, and CI validation.
